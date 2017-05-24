@@ -19,7 +19,7 @@ This project was a group project put together by a team of year 1 programmers. W
 
 **Images**
 ![alt text](https://skyeagle4.github.io/ProgrammingPortfolio/IMG_0706.png "Assembly")
-![alt text](https://skyeagle4.github.io/ProgrammingPortfolio/Mockup.png "Board")
-![alt text](https://skyeagle4.github.io/ProgrammingPortfolio/Mockup.png "Arduino UNO")
-![alt text](https://skyeagle4.github.io/ProgrammingPortfolio/Mockup.png "Shift register")
-![alt text](https://skyeagle4.github.io/ProgrammingPortfolio/Mockup.png "LED's and breadboard")
+![alt text](https://skyeagle4.github.io/ProgrammingPortfolio/IMG_0707.png "Board")
+![alt text](https://skyeagle4.github.io/ProgrammingPortfolio/IMG_0708.png "Arduino UNO")
+![alt text](https://skyeagle4.github.io/ProgrammingPortfolio/IMG_0709.png "Shift register")
+![alt text](https://skyeagle4.github.io/ProgrammingPortfolio/IMG_0710.png "LED's and breadboard")
