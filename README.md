@@ -23,3 +23,6 @@ This project was a group project put together by a team of year 1 programmers. W
 ![alt text](https://skyeagle4.github.io/ProgrammingPortfolio/IMG_0708.png "Arduino UNO")
 ![alt text](https://skyeagle4.github.io/ProgrammingPortfolio/IMG_0709.png "Shift register")
 ![alt text](https://skyeagle4.github.io/ProgrammingPortfolio/IMG_0710.png "LED's and breadboard")
+
+**Code**
+[project code and shift register outputs](https://github.com/Skyeagle4/ProgrammingPortfolio/blob/master/Projects/checkers/coding/prototypeshift/prototypeshift.ino)
