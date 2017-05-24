@@ -44,10 +44,20 @@ This project was an individual project. It uses java to allow a screen saver to 
 
 
 ##### 99 Bottles
-This project was an individual project. It uses c++ to be able to have a computer console "sing" a the 99 bottles song.
+This project was an individual project. It uses c++ to allow a computer console "sing" a the 99 bottles song.
 
 **Code** [project code](https://github.com/Skyeagle4/ProgrammingPortfolio/blob/master/ProgrammingFolder/Language%20Migration/99bottles.cpp) 
 
 
 
-###### 
+###### Calculator
+This project was an individual project. It uses java to allow a user to interact with the calculator on screen of a computer, and will perform basic computer calculations, with some more advanced options mixed in with it.
+
+**Code** [project code](https://github.com/Skyeagle4/ProgrammingPortfolio/blob/master/ProgrammingFolder/Programming%20S1/calculator/calculator.pde)
+
+
+
+###### Piglatin Transcriber
+This project was an individual project. It uses c++ to allow a user to interact with the program and input a phrase that will then be translated into Piglatin.
+
+**Code** [project code](https://github.com/Skyeagle4/ProgrammingPortfolio/blob/master/ProgrammingFolder/Language%20Migration/pigLatin.cpp)
