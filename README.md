@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+n## Welcome to the Hardy Programming Repository
 
-You can use the [editor on GitHub](https://github.com/Skyeagle4/ProgrammingPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Keegan Hardy
+Junior year (2016-2017)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository is a compolation of all programming projects completed and/or being worked on by Keegan Hardy.
+
+**NOTE**
+The code in this repository is under copyright protection laws as indicated by the © or by a "copyright pending" note in the code, and this page.
 
 ### Markdown
 
