@@ -29,35 +29,35 @@ This project was a group project put together by a team of year 1 programmers. W
 
 
 
-### Commission Calculator
+## Commission Calculator
 This project was an individual project. It uses c++ inheritance to allow user input to determine the commission that would be received for selling various real estate properties.
 
 **Code** [project code](https://github.com/Skyeagle4/ProgrammingPortfolio/blob/master/ProgrammingFolder/Language%20Migration/inheritance.cpp)
 
 
 
-#### Screen Saver
+## Screen Saver
 This project was an individual project. It uses java to allow a screen saver to be used and created on any computer system.
 
 **Code** [project code](https://github.com/Skyeagle4/ProgrammingPortfolio/tree/master/ProgrammingFolder/Programming%20S1/screenSaver)
 
 
 
-##### 99 Bottles
+## 99 Bottles
 This project was an individual project. It uses c++ to allow a computer console "sing" a the 99 bottles song.
 
 **Code** [project code](https://github.com/Skyeagle4/ProgrammingPortfolio/blob/master/ProgrammingFolder/Language%20Migration/99bottles.cpp) 
 
 
 
-###### Calculator
+## Calculator
 This project was an individual project. It uses java to allow a user to interact with the calculator on screen of a computer, and will perform basic computer calculations, with some more advanced options mixed in with it.
 
 **Code** [project code](https://github.com/Skyeagle4/ProgrammingPortfolio/blob/master/ProgrammingFolder/Programming%20S1/calculator/calculator.pde)
 
 
 
-###### Piglatin Transcriber
+## Piglatin Transcriber
 This project was an individual project. It uses c++ to allow a user to interact with the program and input a phrase that will then be translated into Piglatin.
 
 **Code** [project code](https://github.com/Skyeagle4/ProgrammingPortfolio/blob/master/ProgrammingFolder/Language%20Migration/pigLatin.cpp)
